@@ -3,13 +3,67 @@
 A list of free resources related to development for the AXIS Camera Application Framework (ACAP).
 Despite the title, the entries may or may not be awesome, but the indices should be.
 
-- [Entries](#entries)
+## Table of Contents
+- [Promoted](#promoted)
 - [Indices](#indices)
   - [Discussion forums](#discussion-forums)
   - [Example applications](#example-applications)
   - [Language agnostic developer tools](#language-agnostic-developer-tools)
   - [Language support](#language-support)
   - [Official](#official)
+- [Entries](#entries)
+
+## Promoted
+
+<!-- Maintained entries with a backlink to this project -->
+
+- [rs4acap](#rs4acap)
+
+## Indices
+
+### Discussion forums
+
+- [acap-native-sdk-examples](#acap-native-sdk-examples)
+- [AXIS Community (unofficial)](#axis-community-unofficial)
+
+### Example applications
+
+- [acap-native-sdk-examples](#acap-native-sdk-examples)
+- [axis-acap-metrics](#axis-acap-metrics)
+- [Axis_Cam_Tailscale](#axis_cam_tailscale)
+- [axis-aws-kinesis-vsp](#axis-aws-kinesis-vsp)
+- [axis-weatherflow](#axis-weatherflow)
+- [DetectX](#detectx)
+- [goxis examples](#goxis-examples)
+- [opc-ua-gaugereader-acap](#opc-ua-gaugereader-acap)
+- [python-app-on-axis-camera](#python-app-on-axis-camera)
+
+### Language agnostic developer tools
+
+- [rs4acap](#rs4acap)
+
+### Language support
+
+- C
+  - [acap-native-sdk-examples](#acap-native-sdk-examples)
+- C++
+  - [acap-native-sdk-examples](#acap-native-sdk-examples)
+- Go
+  - [goxis](#goxis)
+- Python
+  - [python-app-on-axis-camera](#python-app-on-axis-camera)
+- Rust
+  - [acap-rs](#acap-rs)
+  - [acap-rs-template](#acap-rs-template)
+  - [cargo-acap](#cargo-acap)
+- Shell
+  - [acap-native-sdk-examples](#acap-native-sdk-examples)
+
+### Official
+
+- [acap-native-sdk-examples](#acap-native-sdk-examples)
+- [Axis Developer Documentation](#axis-developer-documentation)
+
 
 ## Entries
 
@@ -140,48 +194,3 @@ Despite the title, the entries may or may not be awesome, but the indices should
 > Utility for loading/saving/displaying video and images.
 > It gives random access to mjpg (in http multipart format) and H264 (in .mkv format) video frames.
 > For recordings origination from Axis cameras the camera system time at the time of capture is provided as timestamp for each frame.
-
-## Indices
-
-### Discussion forums
-
-- [acap-native-sdk-examples](#acap-native-sdk-examples)
-- [AXIS Community (unofficial)](#axis-community-unofficial)
-
-### Example applications
-
-- [acap-native-sdk-examples](#acap-native-sdk-examples)
-- [axis-acap-metrics](#axis-acap-metrics)
-- [Axis_Cam_Tailscale](#axis_cam_tailscale)
-- [axis-aws-kinesis-vsp](#axis-aws-kinesis-vsp)
-- [axis-weatherflow](#axis-weatherflow)
-- [DetectX](#detectx)
-- [goxis examples](#goxis-examples)
-- [opc-ua-gaugereader-acap](#opc-ua-gaugereader-acap)
-- [python-app-on-axis-camera](#python-app-on-axis-camera)
-
-### Language agnostic developer tools
-
-- [rs4acap](#rs4acap)
-
-### Language support
-
-- C
-  - [acap-native-sdk-examples](#acap-native-sdk-examples)
-- C++
-  - [acap-native-sdk-examples](#acap-native-sdk-examples)
-- Go
-  - [goxis](#goxis)
-- Python
-  - [python-app-on-axis-camera](#python-app-on-axis-camera)
-- Rust
-  - [acap-rs](#acap-rs)
-  - [acap-rs-template](#acap-rs-template)
-  - [cargo-acap](#cargo-acap)
-- Shell
-  - [acap-native-sdk-examples](#acap-native-sdk-examples)
-
-### Official
-
-- [acap-native-sdk-examples](#acap-native-sdk-examples)
-- [Axis Developer Documentation](#axis-developer-documentation)
