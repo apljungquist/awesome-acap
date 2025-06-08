@@ -17,6 +17,7 @@ Despite the title, the entries may or may not be awesome, but the indices should
 
 <!-- Maintained entries with a backlink to this project -->
 
+- [acap-rs](#acap-rs)
 - [rs4acap](#rs4acap)
 
 ## Indices
