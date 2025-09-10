@@ -57,6 +57,7 @@ Despite the title, the entries may or may not be awesome, but the indices should
   - [acap-rs](#acap-rs)
   - [acap-rs-template](#acap-rs-template)
   - [cargo-acap](#cargo-acap)
+  - [easy-acap](#easy-acap)
 - Shell
   - [acap-native-sdk-examples](#acap-native-sdk-examples)
 
@@ -141,6 +142,13 @@ Despite the title, the entries may or may not be awesome, but the indices should
 [pandosme/DetectX](https://github.com/pandosme/DetectX)
 
 > Run Custom YOLO5 models in Axis camera
+
+
+### Easy-acap
+
+[apljungquist/easy-acap](https://github.com/apljungquist/easy-acap)
+
+> An opinionated framework for building ACAP apps
 
 ### goxis
 
