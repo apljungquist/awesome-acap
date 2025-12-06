@@ -148,7 +148,7 @@ Despite the title, the entries may or may not be awesome, but the indices should
 
 [apljungquist/easy-acap](https://github.com/apljungquist/easy-acap)
 
-> An opinionated framework for building ACAP apps
+> An opinionated framework for building ACAP apps with Rust
 
 ### goxis
 
