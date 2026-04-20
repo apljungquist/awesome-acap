@@ -117,6 +117,18 @@ Despite the title, the entries may or may not be awesome, but the indices should
 
 > Here you will find the files and instructions required to run Tailscale VPN on Axis Communications Cameras
 
+### Axis Cam WireGuard
+
+[Mo3he/Axis_Cam_WireGuard](https://github.com/Mo3he/Axis_Cam_WireGuard)
+
+> Files and instructions required to run WireGuard on Axis Communications Cameras
+
+### Axis Cam ZeroTier
+
+[Mo3he/Axis_Cam_ZeroTier](https://github.com/Mo3he/Axis_Cam_ZeroTier)
+
+> Files and instructions required to run ZeroTier VPN on Axis Communications Cameras
+
 ### AXIS Community (unofficial)
 
 [AXIS Community (unofficial) Discord Channel](https://discord.com/invite/jrE98E6Qe9)
@@ -149,6 +161,12 @@ Despite the title, the entries may or may not be awesome, but the indices should
 [apljungquist/easy-acap](https://github.com/apljungquist/easy-acap)
 
 > An opinionated framework for building ACAP apps with Rust
+
+### Event Engine ACAP
+
+[Mo3he/Event-Engine-ACAP](https://github.com/Mo3he/Event-Engine-ACAP)
+
+> If-This-Then-That style rule engine ACAP for Axis cameras - multiple triggers, conditions, actions, MQTT, webhooks, scheduling, and more
 
 ### goxis
 
