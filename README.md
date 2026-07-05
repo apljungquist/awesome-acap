@@ -18,6 +18,7 @@ Despite the title, the entries may or may not be awesome, but the indices should
 <!-- Maintained entries with a backlink to this project -->
 
 - [acap-rs](#acap-rs)
+- [easy-as-acap](#easy-as-acap)
 - [rs4acap](#rs4acap)
 
 ## Indices
@@ -155,12 +156,17 @@ Despite the title, the entries may or may not be awesome, but the indices should
 
 > Run Custom YOLO5 models in Axis camera
 
-
 ### Easy-acap
 
 [apljungquist/easy-acap](https://github.com/apljungquist/easy-acap)
 
 > An opinionated framework for building ACAP apps with Rust
+
+### Easy as ACAP
+
+[apljungquist/easy-as-acap](https://github.com/apljungquist/easy-as-acap)
+
+> Getting started guide for ACAP development, focusing on Rust
 
 ### Event Engine ACAP
 
