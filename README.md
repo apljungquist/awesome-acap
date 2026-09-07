@@ -19,6 +19,7 @@ Despite the title, the entries may or may not be awesome, but the indices should
 
 - [acap-rs](#acap-rs)
 - [rs4acap](#rs4acap)
+- [unofficial-acap-developers](#unofficial-acap-developers)
 
 ## Indices
 
@@ -207,6 +208,12 @@ Despite the title, the entries may or may not be awesome, but the indices should
 [apljungquist/rs4acap](https://github.com/apljungquist/rs4acap)
 
 > A collection of language agnostic tools that facilitate development for the ACAP
+
+### unofficial-acap-developers
+
+[pandosme unofficial-acap-developers](https://pandosme.github.io/acap/2026/09/06/unofficial-acap-developers.html)
+
+> a list of people and organisations who publish ACAPs and ACAP tooling — open source or self-supported — outside Axis’s own official repos.
 
 ### vapix
 
