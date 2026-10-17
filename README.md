@@ -191,6 +191,12 @@ Despite the title, the entries may or may not be awesome, but the indices should
 
 > Missing Feature ACAP is a versatile extension that delivers small but powerful functionalities to AXIS cameras—fast
 
+### OADM - Open AXIS Device Management
+
+[Cacsjep/oadm](https://github.com/Cacsjep/oadm)
+
+> Open source alternative to AXIS Device Manager for Windows, Linux and macOS.
+
 ### opc-ua-gaugereader-acap
 
 [AxisCommunications/opc-ua-gaugereader-acap](https://github.com/AxisCommunications/opc-ua-gaugereader-acap)
