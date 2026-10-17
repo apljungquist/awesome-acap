@@ -156,7 +156,6 @@ Despite the title, the entries may or may not be awesome, but the indices should
 
 > Run Custom YOLO5 models in Axis camera
 
-
 ### Easy-acap
 
 [apljungquist/easy-acap](https://github.com/apljungquist/easy-acap)
@@ -184,12 +183,6 @@ Despite the title, the entries may or may not be awesome, but the indices should
 ### goxis examples
 
 [Cacsjep/goxis_examples](https://github.com/Cacsjep/goxis_examples)
-
-### acap_missing_features_docs
-
-[acap_missing_features_docs](https://cacsjep.github.io/acap_missing_features_docs)
-
-> Missing Feature ACAP is a versatile extension that delivers small but powerful functionalities to AXIS cameras—fast
 
 ### OADM - Open AXIS Device Management
 
