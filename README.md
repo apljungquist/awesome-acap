@@ -184,6 +184,12 @@ Despite the title, the entries may or may not be awesome, but the indices should
 
 [Cacsjep/goxis_examples](https://github.com/Cacsjep/goxis_examples)
 
+### Multimux Edge
+
+[fishloa/axis-multimux-edge](https://github.com/fishloa/axis-multimux-edge)
+
+> On-camera LL-HLS/DASH media origin for Axis ACAP (built on multimux)
+
 ### OADM - Open AXIS Device Management
 
 [Cacsjep/oadm](https://github.com/Cacsjep/oadm)
